@@ -1,0 +1,8 @@
+PUBLICAR NO CLOUDFLARE PAGES (via GitHub)
+1. Envie TODO o conteúdo desta pasta (index.html na raiz) para um repositório no GitHub.
+2. Cloudflare > Workers & Pages > Create > Pages > Connect to Git > escolha o repositório.
+3. Framework preset: None
+   Build command: (deixe vazio)
+   Build output directory: /   (ou a subpasta onde estiver o index.html)
+4. Save and Deploy.
+Imagens: assets/images/. Formulário envia direto ao PipeLead; GTM-NJ592784 incluído.
